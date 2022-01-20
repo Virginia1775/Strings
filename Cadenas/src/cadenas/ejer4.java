@@ -1,3 +1,4 @@
+package cadenas;
 import java.util.Scanner;
 
 public class ejer4 {
